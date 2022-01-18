@@ -7,4 +7,5 @@ https://www.kaggle.com/tapakah68/medical-masks-part1
 # Run App
 put app.py and model.pth on same folder
 !pip install streamlit
+
 run streamlit app.py
