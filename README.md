@@ -9,6 +9,7 @@ https://drive.google.com/file/d/17PTmQnfTpjVyRwzK3JnvDyR-qOyJTCjE/view?usp=shari
 
 # Run App
 put app.py and model.pth on same folder
+
 !pip install streamlit
 
 run streamlit app.py
