@@ -1,4 +1,6 @@
 # Mask-Classification-AI-Project
+Live Link
+https://huggingface.co/spaces/nobertpr/face-mask-detection
 
 # Dataset Used
 "500 GB of images with people wearing masks. Part 1"
